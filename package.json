@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "swiper": "^11.1.5"
+  },
+  "type": "module"
+}
